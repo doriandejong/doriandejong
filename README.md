@@ -12,8 +12,8 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/doriandejong/doriandejong/assets/79090547/78f461f4-7062-4475-a9fb-51ee9d835ade" height="40" width="52" alt="astro logo"  />
-  <img src="https://github.com/doriandejong/doriandejong/assets/79090547/bff003e5-bcc5-4b08-9786-414f4b409d7c" height="40" width="52" alt="storyblok logo"  />
+  <img src="https://github.com/doriandejong/doriandejong/assets/79090547/78f461f4-7062-4475-a9fb-51ee9d835ade" height="40" alt="astro logo"  />
+  <img src="https://github.com/doriandejong/doriandejong/assets/79090547/bff003e5-bcc5-4b08-9786-414f4b409d7c" height="40" alt="storyblok logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vue logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
