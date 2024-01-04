@@ -3,7 +3,7 @@
 
 <img height="16"></img>
 
-<h3>things I make websites with...</h3>
+<h3>Things I make websites with...</h3>
 	<p align="center">
 		<img alt="Astro" src="https://img.shields.io/badge/Astro-3c3c3c?style=for-the-badge&logo=astro&logoColor=white"/>
 		<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-3c3c3c?style=for-the-badge&logo=tailwind-css&logoColor=white" >
