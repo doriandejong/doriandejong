@@ -1,20 +1,20 @@
 <h1>Hey, What's up?</h1>
-<p>I'm Dorian, web-developer from <img src="https://cdn-icons-png.flaticon.com/512/6157/6157397.png" width="13"/> <b>the Netherlands</b>. My journey began with a fascination for the digital world, and that passion has led me to web-development💻 ..</p>
+<p>I'm Dorian, web-developer from <img src="https://cdn-icons-png.flaticon.com/512/6157/6157397.png" width="13"/> <b>the Netherlands</b>. My journey began with a fascination for the digital world, and that passion has led me to web-development💻.</p>
 
 <img height="16"></img>
 
 <h3>things I make websites with...</h3>
-	<p>
+	<p align="center">
 		<img alt="Astro" src="https://img.shields.io/badge/Astro-3c3c3c?style=for-the-badge&logo=astro&logoColor=white"/>
-	    <img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-3c3c3c?style=for-the-badge&logo=tailwind-css&logoColor=white" >
-	    <img alt="Storyblok" src="https://img.shields.io/badge/Storyblok-3c3c3c?style=for-the-badge&logo=storyblok&logoColor=white">
-	    <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3c3c3c?style=for-the-badge&logo=typescript&logoColor=white">
-	    <img alt="Pnpm" src="https://img.shields.io/badge/Pnpm-3c3c3c?style=for-the-badge&logo=pnpm&logoColor=white" >
-	    <img alt="Html" src="https://img.shields.io/badge/Html-3c3c3c?style=for-the-badge&logo=html5&logoColor=white" >
-	    <img alt="Css" src="https://img.shields.io/badge/Css-3c3c3c?style=for-the-badge&logo=css3&logoColor=white">
-	    <img alt="Google Analytics" src="https://img.shields.io/badge/Analitycs-3c3c3c?style=for-the-badge&logo=googleanalytics&logoColor=white" >
-	    <img alt="Google Tagmanager" src="https://img.shields.io/badge/Tag Manager-3c3c3c?style=for-the-badge&logo=googletagmanager&logoColor=white" >
-	    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-3c3c3c?style=for-the-badge&logo=javascript&logoColor=white" >
+		<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-3c3c3c?style=for-the-badge&logo=tailwind-css&logoColor=white" >
+		<img alt="Storyblok" src="https://img.shields.io/badge/Storyblok-3c3c3c?style=for-the-badge&logo=storyblok&logoColor=white">
+		<img alt="Typescript" src="https://img.shields.io/badge/Typescript-3c3c3c?style=for-the-badge&logo=typescript&logoColor=white">
+		<img alt="Pnpm" src="https://img.shields.io/badge/Pnpm-3c3c3c?style=for-the-badge&logo=pnpm&logoColor=white" >
+		<img alt="Html" src="https://img.shields.io/badge/Html-3c3c3c?style=for-the-badge&logo=html5&logoColor=white" >
+		<img alt="Css" src="https://img.shields.io/badge/Css-3c3c3c?style=for-the-badge&logo=css3&logoColor=white">
+		<img alt="Google Analytics" src="https://img.shields.io/badge/Analitycs-3c3c3c?style=for-the-badge&logo=googleanalytics&logoColor=white" >
+		<img alt="Google Tagmanager" src="https://img.shields.io/badge/Tag Manager-3c3c3c?style=for-the-badge&logo=googletagmanager&logoColor=white" >
+		<img alt="Javascript" src="https://img.shields.io/badge/Javascript-3c3c3c?style=for-the-badge&logo=javascript&logoColor=white" >
 		<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-3c3c3c?style=for-the-badge&logo=vue.js&logoColor=white" >
 		<img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-3c3c3c?style=for-the-badge&logo=nuxt.js&logoColor=white" >
 		<img alt="Netlify" src="https://img.shields.io/badge/Netlify-3c3c3c?style=for-the-badge&logo=netlify&logoColor=white" >
