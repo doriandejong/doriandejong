@@ -1,5 +1,5 @@
 <h1 align="center">Hey, What's up?</h1>
-<p align="center"I'm Dorian, web-developer from <img src="https://cdn-icons-png.flaticon.com/512/6157/6157397.png" width="13"/> <b>the Netherlands</b>. My journey began with a fascination for the digital world, and that passion has led me to web-development💻.</p>
+<p align="center">I'm Dorian, web-developer from <img src="https://cdn-icons-png.flaticon.com/512/6157/6157397.png" width="13"/> <b>the Netherlands</b>. My journey began with a fascination for the digital world, and that passion has led me to web-development💻.</p>
 
 <img height="16"></img>
 
