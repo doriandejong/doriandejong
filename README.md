@@ -1,9 +1,9 @@
-<h1>Hey, What's up?</h1>
-<p>I'm Dorian, web-developer from <img src="https://cdn-icons-png.flaticon.com/512/6157/6157397.png" width="13"/> <b>the Netherlands</b>. My journey began with a fascination for the digital world, and that passion has led me to web-development💻.</p>
+<h1 align="center">Hey, What's up?</h1>
+<p align="center"I'm Dorian, web-developer from <img src="https://cdn-icons-png.flaticon.com/512/6157/6157397.png" width="13"/> <b>the Netherlands</b>. My journey began with a fascination for the digital world, and that passion has led me to web-development💻.</p>
 
 <img height="16"></img>
 
-<h3>Things I make websites with...</h3>
+<h3 align="center">Things I make websites with...</h3>
 	<p align="center">
 		<img alt="Astro" src="https://img.shields.io/badge/Astro-3c3c3c?style=for-the-badge&logo=astro&logoColor=white"/>
 		<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-3c3c3c?style=for-the-badge&logo=tailwind-css&logoColor=white" >
@@ -28,7 +28,7 @@
 <img height="16"></img>
 
  <table>
-	<h3>Github stats</h3>
+	<h3 align="center">Github stats</h3>
 	<tbody>
 		<tr>
 		<tr>
